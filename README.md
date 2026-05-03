@@ -111,7 +111,7 @@ To build an interactive analytics dashboard that:
 • Average Order Value (AOV)
 
 ## 6.	Screenshot:
-Example: ![Dashboard Preview]()
+Example: ![Dashboard Preview](https://github.com/YS-Analytics/Blinkit-Analysis-Dashboard/blob/main/Project%20Images/Blinkit%20Dashboard.png)
 
 ## 7. Project Link:
 https://app.powerbi.com/view?r=eyJrIjoiYjQ1YjQxMWYtYWVhNC00NmExLTg3NTQtNGI5OGNmZjE3MTU5IiwidCI6IjQ3MDI3YTE1LTA5YWItNGYwNC1hZGZjLTE3ZDc0OWMzNWIwMCJ9&pageName=f5ef579880821934ea49
